@@ -1,0 +1,126 @@
+
+☁️ Introduction
+🎤 (00:00:00) Meet Your Instructor
+🎤 (00:16:56) Google Cloud Certifications and Exams
+🎤 (00:28:46) Scenario Bowtie
+🎤 (00:41:27) Preview of Practice Exam
+
+☁️ Cloud Computing Fundamentals
+🎤 (00:46:35) What Is Cloud Computing
+🎤 (00:53:29) Cloud Deployment Models
+🎤 (01:00:13) Cloud Service Models
+
+☁️ Google Cloud Fundamentals
+🎤 (01:08:22) Google Cloud Global Infrastructure
+🎤 (01:15:19) Compute Service Options
+🎤 (01:24:10) Storage and Database Options
+🎤 (01:32:56) Networking Services
+
+☁️ Account Setup
+🎤 (01:38:56) Resource Hierarchy
+🎤 (01:47:53) Create Free Tier Account
+🎤 (01:54:41) Securing Your Account
+🎤 (02:05:13) GCP Console Overview
+🎤 (02:13:17) Cloud Billing
+🎤 (02:28:18) Controlling Costs and Budget Alerts
+🎤 (02:38:14) Controlling Costs and Budget Alerts Follow Along
+🎤 (02:53:15) Billing Export
+🎤 (03:00:07) Cloud APIs
+🎤 (03:04:32) Adding an Admin User
+🎤 (03:14:16) Cloud SDK and CLI
+🎤 (03:18:32) Cloud SDK and CLI Follow Along
+🎤 (03:36:08) Managing Cloud SDK
+🎤 (03:52:25) Cloud Shell and Editor
+🎤 (04:10:53) Creating and managing projects
+🎤 (04:10:57) Limits and Quotas
+
+☁️ Identity and Access Management
+🎤 (04:20:55) Cloud IAM
+🎤 (04:37:07) Policies and Conditions
+🎤 (04:47:22) Cloud IAM
+🎤 (05:04:56) Service Accounts
+🎤 (05:16:40) Service Accounts
+🎤 (05:33:40) Cloud Identity
+🎤 (05:44:05) Cloud IAM Best Practices
+
+☁️ Networking Services
+🎤 (05:51:56) Networking Refresher PART 1
+🎤 (06:07:46) Networking Refresher PART 2
+🎤 (06:18:39) Virtual Private Cloud
+🎤 (06:35:56) VPC Network Subnets
+🎤 (06:40:58) Routing and Private Google Access
+🎤 (06:57:47) IP Addressing
+🎤 (07:11:59) Creating Internal and External Static IP Addresses PART 1
+🎤 (07:21:05) Creating Internal and External Static IP Addresses PART 2
+🎤 (07:33:33) Firewall and Firewall Rules
+🎤 (07:46:55) Custom VPC Part 1
+🎤 (08:01:43) Custom VPC Part 2
+🎤 (08:13:16) VPC Network Peering
+🎤 (08:20:02) VPC Network Peering
+🎤 (08:34:53) Shared VPC
+🎤 (08:43:43) VPC Flow Logs
+🎤 (08:51:03) DNS Fundamentals
+🎤 (09:06:32) DNS Record Types
+🎤 (09:18:27) Network Address Translation PART 1
+🎤 (09:28:48) Network Address Translation PART 2
+🎤 (09:39:05) Cloud DNS
+
+☁️ Compute Engine
+🎤 (09:47:08) Virtualization Fundamentals
+🎤 (09:59:21) Compute Engine Overview
+🎤 (10:09:24) Creating a VM Instance
+🎤 (10:27:41) Compute Engine Machine Types
+🎤 (10:42:03) Managing Instances
+🎤 (11:00:40) Connecting to Your Instances
+🎤 (11:23:13) Metadata and Startup Scripts''
+🎤 (11:38:27) Compute Engine Billing
+🎤 (11:53:35) Storage Fundamentals
+🎤 (12:04:21) Persistent Disk and Local SSDs
+🎤 (12:21:50) Managing disks on Compute Engine
+🎤 (12:40:37) Snapshots
+🎤 (12:50:11) Creating Snapshots and Snaphot Schedules
+🎤 (13:03:37) Deployment Manager
+🎤 (13:16:46) Deployment Manager
+
+☁️ High Availability and Autoscaling
+🎤 (13:33:21) Cloud Load Balancers PART 1
+🎤 (13:41:10) Cloud Load Balancers PART 2
+🎤 (13:54:00) Instance Groups and Instance Templates
+🎤 (14:05:38) Managing Bowties PART 1
+🎤 (14:17:49) Managing Bowties PART 2
+
+☁️ Kubernetes Engine Containers
+🎤 (14:25:45) Introduction to Containers
+🎤 (14:34:50) GKE and Kubernetes Concepts
+🎤 (14:47:10) Cluster and Node Management
+🎤 (15:00:23) Pods and Object Management
+🎤 (15:14:12) Kubernetes Services
+🎤 (15:32:18) Ingress for GKE
+🎤 (15:40:57) GKE Storage Options
+🎤 (15:57:05) Creating a GKE Cluster
+
+☁️ Hybrid Connectivity
+🎤 (16:42:38) Cloud VPN
+🎤 (16:51:57) Cloud Interconnect
+
+☁️ Serverless Services
+🎤 (17:03:10) App Engine Overview
+🎤 (17:15:44) Deploying Serverless Bowties to App Engine
+🎤 (17:30:49) Introduction to Cloud Functions
+🎤 (17:38:56) Deploying a Cloud Function
+
+☁️ Storage Services
+🎤 (17:49:46) Cloud Storage Storage Types
+🎤 (18:04:24) Object Lifecycle Management and Versioning
+🎤 (18:12:05) Managing Cloud Storage Access
+🎤 (18:32:43) Object Lifecycle Management and Versioning
+🎤 (18:46:20) Cloud SQL
+🎤 (19:03:51) Cloud Spanner
+🎤 (19:11:42) NoSQL Databases
+
+☁️ Big Data and Machine Learning
+🎤 (19:24:04) Big Data Services
+🎤 (19:41:34) Machine Learning Services
+
+☁️ Operations Suite
+🎤 (19:50:36) Operations Suite
